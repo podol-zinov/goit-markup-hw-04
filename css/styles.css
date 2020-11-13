@@ -374,6 +374,35 @@ margin-bottom: 0px;
   padding-bottom: 94px;
 }
 
+.container-clients {
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+
+/* .list-clients {
+  display: flex;
+  margin-left: -30px;
+}
+
+.item-clients {
+  height: 90px;
+  margin-left: 30px;
+  padding-bottom: 30px;
+  /*  Задаём ширину элементов  */
+  flex-basis: calc(100% / 6 - 30px);
+  border: 1px solid #AFB1B8;
+  box-sizing: border-box;
+  border-radius: 4px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.clients-logo-1 {
+  /* background-image: url(../images/logo-1.svg); */
+  padding-top: 20px;
+  padding-bottom: 20px;
+} */
+
 .adress-footer-white {
   font-style: normal;
   color: var(--white);
